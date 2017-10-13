@@ -26,12 +26,12 @@ padding: 10px;
 h2 span.spacer {
 background: rgb(0, 0, 0); /* fallback color */
 background: rgba(0, 0, 0, 0.7);
-padding:0 10px;
+padding: 10px;
 }
 
 h3 {
 position: absolute;
-top: 500px;
+top: 400px;
 left: 0;
 width: 100%;
 }
@@ -48,5 +48,5 @@ padding: 5px;
 h3 span.spacer {
 background: rgb(0, 0, 0); /* fallback color */
 background: rgba(0, 0, 0, 0.7);
-padding:0 5px;
+padding: 5px;
 }
